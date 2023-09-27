@@ -1,0 +1,1 @@
+# EqualWeightSandP500Project
